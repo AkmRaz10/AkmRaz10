@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'm MD. A. K. M. Raz
 
-<!--
-**AkmRaz10/AkmRaz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Textile Engineer | 🧪 Lab Analyst @ Hohenstein  
+🔬 Passionate about smart textiles, R&D, and innovation.  
+🌐 [LinkedIn](https://www.linkedin.com/in/akmraz10) | [Facebook](https://www.facebook.com/AkmRaz10) |
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Textile Testing, Production, Quality Control
+- Tools: MS Office, Photoshop, Video 
+- Languages: Bangla 🇧🇩 | English 🇬🇧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akmraz10&show_icons=true&theme=tokyonight)
+
+## 🔗 Latest Projects
+- [Internship Report](https://www.scribd.com/document/869774310/Internship-Report)
+- [Textile Research Channel](https://t.me/textileresarch)
+
+## 📫 Let's Connect!
+📧 akmraz36@gmail.com | ☎️ +8801777414424  
+📱 [Telegram](https://t.me/AkmRaz10) | 📷 [Instagram](https://www.instagram.com/Akmraz10) | 🐦 [X (Twitter)](https://www.twitter.com/AkmRaz10)  
+🌐 [LinkedIn](https://www.linkedin.com/in/akmraz10) | 📘 [Facebook](https://www.facebook.com/AkmRaz10)
